@@ -1,0 +1,36 @@
+[
+  {
+    "first-name": "Lance Ezeckel",
+    "last-name": "Fernando",
+    "age": 20,
+    "address": "Capiz",
+    "contact-number": "639498753161",
+    "friend-list":
+    [
+      {
+        "name": "Corey Chenault",
+        "age": 20,
+        "address": "East Virginia",
+        "likes": "gym",
+        "dislikes": "school",
+        "feeling": "relaxed"
+      },
+      {
+        "name": "Teody Monares",
+        "age": 22,
+        "address": "Capiz",
+        "likes": "anime",
+        "dislikes": "romance",
+        "feeling": "sad"
+      },
+      {
+        "name": "Jansen Chu",
+        "age": 20,
+        "address": "Southland",
+        "likes": "food",
+        "dislikes": "games",
+        "feeling": "happy"
+      }
+    ]
+  }
+]
